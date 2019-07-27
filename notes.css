@@ -1,0 +1,36 @@
+/*
+element name (id, div, li, p) {
+
+  } to read the element on the page
+
+#idName {
+
+  } to read id elements
+
+.className {
+
+  } to read the class element
+
+class > div {
+
+}this means if you are any div under a class
+
+class > div > div {
+
+}this means if you are any div under a div that is under a class element
+
+
+INSIDE THE ELEMENT TAG
+width: (num)px or %;
+height: (num)px ;
+font-family: 'font name'
+margin: 0 auto; makes the margin 0 instead of the default 8px
+border: solid (num)px 'color' ; makes a border for the element;
+background-color: 'color' ; gives a background color for that element;
+padding: (num)rem; gives a type of border between the border and element info;
+border-radius: (num)px; makes the border round;
+font-color: 'color'; does what it says
+justify-content: left || center || right; moves the content to that part of the page as a row;
+align-item: left || center || right; moves the content
+
+disply: flex
